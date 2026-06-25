@@ -11,11 +11,11 @@ public class calclateTip {
     }
 
     public double findTotal() {
-
+        return findTip() + total;
     }
 
     private double findTip() {
-
+        return total * (tipPercent/100);
     }
 
     public double getTip() {
