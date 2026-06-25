@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff6f8ed0-e163-4926-808c-40269dc85a38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCourse.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/JavaCourse/Practice/calclateTip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JavaCourse/Practice/calclateTip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +107,7 @@
       <workItem from="1782359725002" duration="60000" />
       <workItem from="1782398364960" duration="1481000" />
       <workItem from="1782399867950" duration="22000" />
-      <workItem from="1782399900197" duration="828000" />
+      <workItem from="1782399900197" duration="2316000" />
     </task>
     <servers />
   </component>
