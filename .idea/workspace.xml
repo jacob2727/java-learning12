@@ -4,78 +4,125 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff6f8ed0-e163-4926-808c-40269dc85a38" name="Changes" comment="" />
+    <list default="true" id="ff6f8ed0-e163-4926-808c-40269dc85a38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/VideoDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/VideoEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/VideoProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/XEmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/XVideoDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/MyTube/XVideoEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/Draggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/Dragger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/TaxCalculator2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/TaxCalculator2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/TaxReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part2/TaxCalc/UIWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Collections/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Collections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Exceptions/ExceptionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Generics/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Generics/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Generics/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/Generics/UserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/lamdas/LambdasDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaCourse/Part3/lamdas/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/JavaCourse/Practice/calclateTip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JavaCourse/Practice/calclateTip.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jacob2727/java-learning12.git",
-    "accountId": "345bfa71-5aef-4c92-a94b-2e3a8c4d9a94"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jacob2727&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jacob2727/java-learning12.git&quot;,
+    &quot;accountId&quot;: &quot;345bfa71-5aef-4c92-a94b-2e3a8c4d9a94&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.075946166824894" />
-      <entry key="MS500" value="2.1573638110404545" />
-      <entry key="S2" value="4.158791565355568" />
-      <entry key="S5" value="5.134363956886446" />
-      <entry key="S10" value="5.745690272481756" />
-      <entry key="S30" value="8.64300732916423" />
-      <entry key="S60" value="12.124157581189355" />
-      <entry key="M2" value="15.499388490170091" />
-      <entry key="M5" value="18.466722985607987" />
-      <entry key="M10" value="19.66960970068593" />
-      <entry key="M15" value="20.09821888824501" />
-      <entry key="M30" value="20.541502381425232" />
-      <entry key="H1" value="20.76881489027289" />
-      <entry key="H2" value="20.88391898205521" />
-      <entry key="H4" value="20.941836822251606" />
-      <entry key="D1" value="20.990289052563558" />
-      <entry key="W1" value="20.99861230278317" />
+      <entry key="MS100" value="8.052358566198034E-36" />
+      <entry key="MS500" value="9.588918977439147E-8" />
+      <entry key="S2" value="0.024776096663162776" />
+      <entry key="S5" value="0.4655907084313503" />
+      <entry key="S10" value="1.378058937091481" />
+      <entry key="S30" value="4.479768282701373" />
+      <entry key="S60" value="8.547063315133379" />
+      <entry key="M2" value="14.34517935424599" />
+      <entry key="M5" value="23.120212251770855" />
+      <entry key="M10" value="28.424499949996214" />
+      <entry key="M15" value="30.64775847576684" />
+      <entry key="M30" value="33.15803511573019" />
+      <entry key="H1" value="34.53448845088719" />
+      <entry key="H2" value="35.27777110646996" />
+      <entry key="H4" value="38.6361844103591" />
+      <entry key="D1" value="234.14635198103562" />
+      <entry key="W1" value="489.0650014621674" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000651963934" />
+      <entry key="S2" value="1.0323083146122105" />
+      <entry key="S5" value="1.4845249712877573" />
+      <entry key="S10" value="2.2058690241788446" />
+      <entry key="S30" value="3.3454154710301656" />
+      <entry key="S60" value="3.961256122309159" />
+      <entry key="M2" value="4.629346472046739" />
+      <entry key="M5" value="5.828964059802721" />
+      <entry key="M10" value="6.67660385761681" />
+      <entry key="M15" value="7.052904672600621" />
+      <entry key="M30" value="7.490386323628907" />
+      <entry key="H1" value="7.735418808094758" />
+      <entry key="H2" value="7.8689222793340825" />
+      <entry key="H4" value="8.45906586131667" />
+      <entry key="D1" value="44.600743011618356" />
+      <entry key="W1" value="92.93528301374367" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9354352128170804" />
-      <entry key="MS500" value="1.9962610635269078" />
-      <entry key="S2" value="4.064792933388321" />
-      <entry key="S5" value="5.088139787952896" />
-      <entry key="S10" value="5.720058010069786" />
-      <entry key="S30" value="8.631008220013916" />
-      <entry key="S60" value="12.116314443645281" />
-      <entry key="M2" value="15.49461715467891" />
-      <entry key="M5" value="18.464523280771644" />
-      <entry key="M10" value="19.6684515457662" />
-      <entry key="M15" value="20.097432990830765" />
-      <entry key="M30" value="20.541102313719964" />
-      <entry key="H1" value="20.768613033833883" />
-      <entry key="H2" value="20.883817592724608" />
-      <entry key="H4" value="20.941786011618472" />
-      <entry key="D1" value="20.990280567959157" />
-      <entry key="W1" value="20.99861109030016" />
+      <entry key="MS100" value="0.003594483010253417" />
+      <entry key="MS500" value="0.32443476091446877" />
+      <entry key="S2" value="0.7996952099630674" />
+      <entry key="S5" value="1.76414822399869" />
+      <entry key="S10" value="3.4233740658000276" />
+      <entry key="S30" value="7.708613504026238" />
+      <entry key="S60" value="12.410229471601067" />
+      <entry key="M2" value="18.898056335802504" />
+      <entry key="M5" value="28.902239001583244" />
+      <entry key="M10" value="35.072672463895664" />
+      <entry key="M15" value="37.68031674356969" />
+      <entry key="M30" value="40.63746034063016" />
+      <entry key="H1" value="42.26421026960588" />
+      <entry key="H2" value="43.143785285731916" />
+      <entry key="H4" value="47.0935920480905" />
+      <entry key="D1" value="278.74481746577743" />
+      <entry key="W1" value="581.9996137024388" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -83,6 +130,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Fbye2sO75rwcYmyCxqReSIOSlX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,14 +143,20 @@
     "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MortgageCalculator.executor": "Run",
+    "Application.com.JavaCourse.Part2.TaxCalc.Main.executor": "Run",
+    "Application.com.JavaCourse.Part3.Exceptions.Main.executor": "Run",
+    "Application.com.JavaCourse.Part3.Generics.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Merging main",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jacob/IdeaProjects/JavaCourse/src/com/JavaCourse/Part2/MyTube",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -110,24 +166,31 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MortgageCalculator">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jacob\IdeaProjects\JavaCourse\src\com\JavaCourse\Part2\MyTube" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.JavaCourse.Part2.MyTube" />
+      <recent name="com.JavaCourse.Part2.TaxCalc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCourse.Practice.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.JavaCourse.Part3.Collections.Main" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.JavaCourse.Practice.*" />
+          <option name="PATTERN" value="com.JavaCourse.Part3.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +213,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.JavaCourse.Part2.TaxCalc.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCourse.Part2.TaxCalc.Main" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaCourse.Part2.TaxCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.JavaCourse.Part3.Exceptions.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCourse.Part3.Exceptions.Main" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaCourse.Part3.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.JavaCourse.Part3.Generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCourse.Part3.Generics.Main" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaCourse.Part3.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MortgageCalculator" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.JavaCourse.Part3.Generics.Main" />
+        <item itemvalue="Application.com.JavaCourse.Part3.Exceptions.Main" />
+        <item itemvalue="Application.com.JavaCourse.Part2.TaxCalc.Main" />
+        <item itemvalue="Application.MortgageCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -178,10 +282,33 @@
       <workItem from="1782398364960" duration="1481000" />
       <workItem from="1782399867950" duration="22000" />
       <workItem from="1782399900197" duration="2316000" />
+      <workItem from="1782658874940" duration="7639000" />
+      <workItem from="1782714403012" duration="1922000" />
+      <workItem from="1782751681151" duration="7707000" />
     </task>
+    <task id="LOCAL-00001">
+      <option name="closed" value="true" />
+      <created>1782409370592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782409370592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/JavaCourse/Part3/Generics/User.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
